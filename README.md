@@ -21,7 +21,7 @@ I am `Kun Luo`, currently pursuing my master's degree majoring in CS from WHUT.
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dot-net&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-![PyTorch](https://img.shields.io/static/v1?style=flat-square&message=PyTorch&color=EE4C2C&logo=PyTorch&logoColor=FFFFFF&label=)
+![PyTorch](https://img.shields.io/static/v1?style=for-the-badge&message=PyTorch&color=EE4C2C&logo=PyTorch&logoColor=FFFFFF&label=)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
 ![NumPy](https://img.shields.io/static/v1?style=for-the-badge&message=NumPy&color=013243&logo=NumPy&logoColor=FFFFFF&label=)
 ![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
