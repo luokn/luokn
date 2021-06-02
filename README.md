@@ -75,5 +75,5 @@ I am `Kun Luo`, currently pursuing my master's degree majoring in CS.
     <br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luokn" />
     <br/>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=luokun.visitor-badge" />
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=luokn.luokn" />
 </div>
