@@ -10,7 +10,7 @@ I am `Kun Luo`, currently pursuing my master's degree majoring in CS.
     [<img src="https://img.shields.io/static/v1?style=flat-square&message=WeChat&color=222222&logo=WeChat&logoColor=07C160&label=" />](assets/wechat.png)
 
 <h3 align="center">⚡ Technologies</h3>
-
+<p align="center">👩‍💻 Languages · 🚀 Frameworks · 💻 OS · 👩‍💻 IDE · ⚡ Database · 🖍📐 Design · 📝 Blog</p>
 🌲 Using frequently...
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=darkgreen)
