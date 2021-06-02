@@ -1,4 +1,4 @@
-<h2 align="center">Hi there! <img src="https://raw.githubusercontent.com/luokn/luokn/main/assets/wave.gif" height="30px" /></h2>
+<h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/luokn/luokn/main/assets/wave.gif" height="32px" /></h1>
 
 I am `Kun Luo`, currently pursuing my master's degree majoring in CS.
 
