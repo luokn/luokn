@@ -69,11 +69,11 @@ I am `Kun Luo`, currently pursuing my master's degree majoring in CS.
 ![Apache Spark](https://img.shields.io/static/v1?style=flat-square&message=Apache+Spark&color=E25A1C&logo=Apache+Spark&logoColor=FFFFFF&label=)
 
 <h3 align="center">📊 Statistics</h3>
-<br/>
 <div align="center">
-    <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=luokn&count_private=true&show_icons=true&include_all_commits=true" />
     <br/>
-    <img alt="Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luokn" />
+    <img src="https://github-readme-stats.vercel.app/api?username=luokn&count_private=true&show_icons=true&include_all_commits=true" />
     <br/>
-    <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=luokun.visitor-badge" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luokn" />
+    <br/>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=luokun.visitor-badge" />
 </div>
