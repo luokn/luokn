@@ -74,7 +74,7 @@ I am `Kun Luo`, currently pursuing my master's degree majoring in CS.
 
 <h3 align="center">📊 Statistics</h3>
 
-<div style="display:flex;flex-direction:column;align-items:center">
+<div align="center">
     <br>
     <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=luokn&count_private=true&show_icons=true&include_all_commits=true">
     <br>
