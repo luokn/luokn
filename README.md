@@ -1,4 +1,4 @@
-## Hi there! <img src="https://raw.githubusercontent.com/luokn/luokn/main/assets/wave.gif" height="24px">
+<h2 align="center">Hi there! <img src="https://raw.githubusercontent.com/luokn/luokn/main/assets/wave.gif" height="25px"></h2>
 
 I am `Kun Luo`, currently pursuing my master's degree majoring in CS.
 
@@ -9,7 +9,7 @@ I am `Kun Luo`, currently pursuing my master's degree majoring in CS.
     [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kun-luo/)
     [<img src="https://img.shields.io/static/v1?style=flat-square&message=WeChat&color=222222&logo=WeChat&logoColor=07C160&label=" />](assets/wechat.png)
 
-## ⚡ Technologies
+<h3 align="center">⚡ Technologies</h3>
 
 🌲 Using frequently...
 
@@ -71,7 +71,8 @@ I am `Kun Luo`, currently pursuing my master's degree majoring in CS.
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Apache Spark](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+Spark&color=E25A1C&logo=Apache+Spark&logoColor=FFFFFF&label=)
 
-## 📊 Statistics
+
+<h3 align="center">📊 Statistics</h3>
 
 <div style="display:flex;flex-direction:column;align-items:center">
     <br>
