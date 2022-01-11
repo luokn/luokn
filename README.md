@@ -39,6 +39,7 @@ I am `Kun Luo`, currently pursuing my master's degree majoring in CS.
 
 🌳 Less frequent...
 
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=dot-net&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
@@ -61,9 +62,7 @@ I am `Kun Luo`, currently pursuing my master's degree majoring in CS.
 
 🌱 Possible future directions...
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=julia&logoColor=white)
-![PyTorch Lightning](https://img.shields.io/static/v1?style=flat-square&message=PyTorch+Lightning&color=792EE5&logo=PyTorch+Lightning&logoColor=FFFFFF&label=)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
 ![Apache Spark](https://img.shields.io/static/v1?style=flat-square&message=Apache+Spark&color=E25A1C&logo=Apache+Spark&logoColor=FFFFFF&label=)
