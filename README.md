@@ -4,9 +4,8 @@ I am `Kun Luo`, currently pursuing my master's degree majoring in CS.
 
 -   💬 Ask me about anything, I am happy to help;
 -   📫 Feel free to connect with me here:
+-   [<img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />](mailto:luokun485@gmail.com)
     [<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" />](mailto:olooook@outlook.com)
-    [<img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />](mailto:luokun485@gmail.com)
-    [<img src="https://img.shields.io/static/v1?style=flat-square&message=WeChat&color=222222&logo=WeChat&logoColor=07C160&label=" />](assets/wechat.png)
 
 <h3 align="center">⚡ Technologies</h3>
 <p align="center">🖥️ Language · 🚀 Framework · 🛠️ Tools · 💻 OS · 💽 Database · 🔬 Research</p>
